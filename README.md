@@ -20,6 +20,18 @@ I'm a Python Full Stack Developer with a strong foundation in designing and buil
 
 ---
 
+<h2 align="center">🧑‍💻 Programming Skills 🧑‍💻</h2>
+<ul>
+    <li><b>Programming Languages:</b> Python, Java</li>
+    <li><b>Frontend Development:</b> HTML, CSS, Javascript, Angular</li>
+    <li><b>Backend Development:</b> Django, REST API</li>
+    <li><b>Libraries for Data Analysis:</b> NumPy, Pandas, Matplotlib</li>
+    <li><b>Databases:</b> MySQL, MongoDB</li>
+    <li><b>Tools & Platforms:</b> Git, VS Code, Jupyter Notebook, Microsoft Power BI</li>
+</ul>
+
+---
+
 <h2 align="center">🚀 Projects 🚀</h2>
 <p>
     Here are a few of the exciting projects I’ve worked on:
@@ -28,6 +40,7 @@ I'm a Python Full Stack Developer with a strong foundation in designing and buil
     <li><b>ATM System with Custom Exception Handling:</b> A robust Python application featuring PIN authentication, transaction history, and custom error handling.</li>
     <li><b>Tech Farm:</b> A real-time agricultural marketplace platform connecting farmers and buyers.</li>
     <li><b>Student Marks Report Generator:</b> A Python application that validates inputs, calculates grades, and provides performance insights.</li>
+    <li><b>Online Pharmacy Management System:</b> A full-stack web application that allows users to manage and order medicines, with features like product search, cart management, and user authentication.</li>
 </ul>
 
 ---
