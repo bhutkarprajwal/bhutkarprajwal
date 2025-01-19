@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I'm+Prajwal+Bhutkar!;" />
 </h1>
 
-<h3 align="center">A Passionate Python Full Stack Developer from India</h3>
+<h3 align="center">A Passionate Python Full Stack Developer / Frontend Developer / Backend Developer</h3>
 
 ---
 
@@ -15,14 +15,14 @@ I'm a Python Full Stack Developer with a strong foundation in designing and buil
 
 <h2 align="center">⚒ Technical Skills ⚒</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,angular,bootstrap,tailwind,django,flask,mysql,sqlite,mongodb" />
+    <img src="https://skillicons.dev/icons?i=python,java,numpy,pandas,matplotlib,html,css,javascript,angular,bootstrap,tailwind,django,flask,mysql,sqlite,mongodb" />
 </div>
 
 ---
 
 <h2 align="center">🛠 Tools 🛠</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,powerbi,jupyter" />
+    <img src="https://skillicons.dev/icons?i=git,github,visualstudio,pycharm,aws,vercel,vscode,powerbi,jupyter" />
 </div>
 
 ---
