@@ -2,7 +2,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I'm+Prajwal+Bhutkar!;" />
 </h1>
 
-<h3 align="center">A Passionate Python Full Stack Developer / Frontend Developer / Backend Developer</h3>
+<h3 align="center" style="color: #4CAF50; font-weight: bold; font-size: 1.5em;">
+    A Passionate Python Full Stack Developer | Frontend Developer | Backend Developer
+</h3>
 
 ---
 
@@ -15,7 +17,11 @@ I'm a Python Full Stack Developer with a strong foundation in designing and buil
 
 <h2 align="center">⚒ Technical Skills ⚒</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,numpy,pandas,matplotlib,html,css,javascript,angular,bootstrap,tailwind,django,flask,mysql,sqlite,mongodb" />
+    <img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,angular,bootstrap,tailwind,django,flask,mysql,sqlite,mongodb" />
+    <br />
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+    <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 ---
