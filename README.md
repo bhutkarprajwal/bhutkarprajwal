@@ -21,9 +21,12 @@ I'm a Python Full Stack Developer with a strong foundation in designing and buil
 ---
 
 <h2 align="center">🧑‍💻 Programming Skills 🧑‍💻</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,angular" />
+</div>
 <ul>
     <li><b>Programming Languages:</b> Python, Java</li>
-    <li><b>Frontend Development:</b> HTML, CSS, Javascript, Angular</li>
+    <li><b>Frontend Development:</b> HTML, CSS, JavaScript, Angular</li>
     <li><b>Backend Development:</b> Django, REST API</li>
     <li><b>Libraries for Data Analysis:</b> NumPy, Pandas, Matplotlib</li>
     <li><b>Databases:</b> MySQL, MongoDB</li>
