@@ -15,7 +15,14 @@ I'm a Python Full Stack Developer with a strong foundation in designing and buil
 
 <h2 align="center">⚒ Technical Skills ⚒</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,angular,bootstrap,tailwind,django,flask,mysql,sqlite,mongodb,git,github,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,angular,bootstrap,tailwind,django,flask,mysql,sqlite,mongodb" />
+</div>
+
+---
+
+<h2 align="center">🛠 Tools 🛠</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,powerbi,jupyter" />
 </div>
 
 ---
