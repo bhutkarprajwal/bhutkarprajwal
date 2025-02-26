@@ -1,16 +1,18 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I'm+Prajwal+Bhutkar!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hello!+👋;+I'm+Prajwal+Bhutkar!;" />
 </h1>
 
 <h3 align="center" style="color: #4CAF50; font-weight: bold; font-size: 1.5em;">
-    A Passionate Python Full Stack Developer | Frontend Developer | Backend Developer
+    🚀 Full Stack Developer | Backend Developer | Data Analyst
 </h3>
 
 ---
 
 <h2 align="center">🌟 About Me 🌟</h2>
 <p align="center">
-I'm a Python Full Stack Developer with a strong foundation in designing and building web applications, backed by a solid understanding of data structures and algorithms. I enjoy tackling real-world challenges through technology, continuously improving my skills, and contributing to impactful projects.
+I am a passionate Full Stack Developer with experience in building scalable web applications and backend systems.  
+With expertise in Python, Django, Flask, and frontend frameworks like Angular, I thrive in creating efficient, user-friendly solutions.  
+Currently, I am expanding my skills in Data Analytics and Cloud Technologies to enhance my development capabilities.
 </p>
 
 ---
@@ -26,7 +28,7 @@ I'm a Python Full Stack Developer with a strong foundation in designing and buil
 
 ---
 
-<h2 align="center">🛠 Tools 🛠</h2>
+<h2 align="center">🛠 Tools & Platforms 🛠</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=git,github,visualstudio,pycharm,aws,vercel,vscode,powerbi,jupyter" />
 </div>
@@ -34,27 +36,32 @@ I'm a Python Full Stack Developer with a strong foundation in designing and buil
 ---
 
 <h2 align="center">🚀 Projects 🚀</h2>
-<p>
-    Here are a few of the exciting projects I’ve worked on:
+<p align="center">
+    Some of my key projects:
 </p>
 <ul>
-    <li><b>ATM System with Custom Exception Handling:</b> A robust Python application featuring PIN authentication, transaction history, and custom error handling.</li>
-    <li><b>Tech Farm:</b> A real-time agricultural marketplace platform connecting farmers and buyers.</li>
-    <li><b>Student Marks Report Generator:</b> A Python application that validates inputs, calculates grades, and provides performance insights.</li>
-    <li><b>Online Pharmacy Management System:</b> A full-stack web application that allows users to manage and order medicines, with features like product search, cart management, and user authentication.</li>
+    <li><b>🌱 Tech Farm:</b> A real-time agricultural marketplace connecting farmers and buyers for efficient trading.</li>
+    <li><b>💊 Online Pharmacy Management System:</b> A full-stack e-commerce platform for medicine management with secure authentication.</li>
+    <li><b>📝 Task Management App:</b> A dynamic to-do list with real-time task management and interactive UI.</li>
+    <li><b>🎮 Tic-Tac-Toe Game:</b> A responsive game with smooth gameplay and accurate move tracking.</li>
+    <li><b>⏱ Stopwatch Application:</b> A functional stopwatch with start, pause, and lap tracking features.</li>
 </ul>
 
 ---
 
 <h2 align="center">📜 Certifications 📜</h2>
-- Completed the Apna College Data Structures and Algorithms (DSA) Course.  
-- Proficient in Python Full Stack Development with hands-on project experience.
+<ul>
+    <li>✅ Completed the <b>Apna College Data Structures and Algorithms (DSA)</b> Course.</li>
+    <li>✅ Certified in <b>Python Full Stack Development</b> with hands-on project experience.</li>
+</ul>
 
 ---
 
 <h2 align="center">📚 Learning Journey 📚</h2>
 <p align="center">
-Currently enhancing my skills in Data Analytics and exploring advanced Python libraries for data visualization and analysis.
+🔹 Strengthening problem-solving skills through <b>LeetCode, CodeChef, and HackerRank</b>.  
+🔹 Exploring <b>Data Analytics</b> with Power BI, Pandas, and SQL.  
+🔹 Enhancing cloud computing knowledge with AWS and cloud-based deployments.  
 </p>
 
 ---
@@ -68,4 +75,4 @@ Currently enhancing my skills in Data Analytics and exploring advanced Python li
 
 ---
 
-<p align="center">✨ Thank you for visiting my profile! Feel free to explore my repositories and reach out to collaborate on projects! ✨</p>
+<p align="center">✨ Thanks for visiting my profile! Feel free to explore my repositories and connect for collaborations! 🚀</p>
