@@ -19,7 +19,7 @@ Currently, I am expanding my skills in Data Analytics and Cloud Technologies to 
 
 <h2 align="center">⚒ Technical Skills ⚒</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,angular,bootstrap,tailwind,django,flask,mysql,sqlite,mongodb" />
+    <img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,angular,bootstrap,django,mysql,sqlite,mongodb" />
     <br />
     <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
