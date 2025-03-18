@@ -36,9 +36,7 @@ Currently, I am expanding my skills in Data Analytics and Cloud Technologies to 
 ---
 
 <h2 align="center">🚀 Projects 🚀</h2>
-<p align="center">
-    Some of my key projects:
-</p>
+
 <ul>
     <li><b>🌱 Tech Farm:</b> A real-time agricultural marketplace connecting farmers and buyers for efficient trading.</li>
     <li><b>💊 Online Pharmacy Management System:</b> A full-stack e-commerce platform for medicine management with secure authentication.</li>
