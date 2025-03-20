@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center" style="color: #4CAF50; font-weight: bold; font-size: 1.5em;">
-    🚀 Full Stack Developer | Backend Developer | Data Analyst
+    🚀 Full Stack Developer | Backend Developer | Data Analyst  🚀
 </h3>
 
 ---
