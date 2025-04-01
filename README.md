@@ -30,7 +30,7 @@ Currently, I am expanding my skills in Data Analytics and Cloud Technologies to 
 
 <h2 align="center">🛠 Tools & Platforms 🛠</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,visualstudio,pycharm,aws,vercel,vscode,powerbi,jupyter" />
+    <img src="https://skillicons.dev/icons?i=git,github,pycharm,aws,vercel,vscode,powerbi,jupyter" />
 </div>
 
 ---
