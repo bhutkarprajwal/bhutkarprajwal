@@ -48,9 +48,8 @@ Currently, I am expanding my skills in Data Analytics and Cloud Technologies to 
 
 ---
 
-<h2 align="center">📜 Certifications 📜</h2>
+<h2 align="center", list-style="none">📜 Certifications 📜</h2>
     <ul>
-        <li>✅ Certified in <b>Python Full Stack Development</b> with hands-on project experience.</li>
         <li>✅ Certified in <b>Python Full Stack Development</b> with hands-on project experience.</li>
     </ul>
 
