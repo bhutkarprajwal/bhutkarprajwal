@@ -68,10 +68,11 @@ Currently, I am expanding my skills in <b>Data Analytics</b> and <b>Cloud Techno
   <a href="mailto:bhutkarprajwal22@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/bhutkarprajwal" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://portfolio-prajwal--bhutkar.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=appveyor&logoColor=white"/>
   </a>
 </div>
+
 
 ---
 
